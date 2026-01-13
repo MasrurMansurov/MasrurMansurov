@@ -14,7 +14,7 @@ For now, I'm mostly working with classic Views, but gradually moving to Jetpack 
 Kotlin, Android SDK, Retrofit, Сoroutines, Material3, sometimes Jetpack Compose, and other technologies related to Android development
 
 **Have experience with:**  
-JavaScript, Next.js, React — started with web development, but now fully focused on Android
+JavaScript, React, Next.js — started with web development, but now fully focused on Android
 
 ```What interests me```
 
