@@ -22,5 +22,5 @@ I'm drawn to tasks where you need to think about performance or come up with a n
 
 ```Hobbies```
 
-`Vibe Coding 😎` & `Sport ⚽️`
+`Vibe Coding 😎` `Sport ⚽️`
 
