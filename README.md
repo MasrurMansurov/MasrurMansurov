@@ -19,3 +19,8 @@ JavaScript, React, Next.js — started with web development, but now fully focus
 ```What interests me```
 
 I'm drawn to tasks where you need to think about performance or come up with a non-standard solution. Also love digging into documentation and figuring out how things work under the hood.
+
+```Hobbies```
+
+`Vibe Coding 😎` & `Sport ⚽️`
+
