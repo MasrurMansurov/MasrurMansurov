@@ -17,6 +17,7 @@ Kotlin, Android SDK, Retrofit, Сoroutines, Material3, sometimes Jetpack Compose
 JavaScript, React, Next.js — started with web development, but now fully focused on Android
 
 **Sometimes use in projects:**
+
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
 
 ``What interests me``
