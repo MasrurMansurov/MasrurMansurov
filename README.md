@@ -16,6 +16,9 @@ Kotlin, Android SDK, Retrofit, Сoroutines, Material3, sometimes Jetpack Compose
 **Have experience with:**  
 JavaScript, React, Next.js — started with web development, but now fully focused on Android
 
+**Sometimes use in projects:**
+https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white
+
 ``What interests me``
 
 I'm drawn to tasks where you need to think about performance or come up with a non-standard solution. Also love digging into documentation and figuring out how things work under the hood.
